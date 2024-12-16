@@ -1,4 +1,4 @@
-#CIMB Decorator Pattern
+# CIMB Decorator Pattern
 
 CIMB is a digital bank that offers GSave and UpSave savings accounts. As with a typical Savings Account, it contains accountNumber, accountName, and a balance for that account.
 
