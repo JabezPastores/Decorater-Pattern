@@ -9,3 +9,5 @@ The GSave account offers an interest rate of 2.5%. Benefits include the "Standar
 The UpSave account offers the highest interest rate of 4.0%. Benefits include the "Standard Savings Account" plus "with Insurance".
 
 Develop a decorator pattern approach that will implement the given UML diagram:
+
+![image](https://github.com/JabezPastores/Decorater-Pattern/blob/main/Decorator%20Pattern%20UML.png)
